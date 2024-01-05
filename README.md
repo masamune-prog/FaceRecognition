@@ -1,2 +1,2 @@
 # FaceRecognition
-Using Alexnet to recognise celebrity faces
+Using Vison Transformer to recognise celebrity faces
